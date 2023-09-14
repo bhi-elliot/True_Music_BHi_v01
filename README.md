@@ -1,2 +1,2 @@
 # True_Music_BHi_v01
- An add-on for a mod for Project Zomboid
+ An add-on for the "True Music" mod for Project Zomboid
