@@ -1,0 +1,5 @@
+name=True Music Addon 2.15.01: Berny's mixtape
+poster=poster.png
+id=truemusic_bhi
+require=truemusic
+description=Listen to the hottest beats of the times while slaying zeds

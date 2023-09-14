@@ -1,0 +1,1209 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item CassetteAFlockOfSeagullsIRan(SoFarAway)(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette A Flock Of Seagulls - I Ran (So Far Away) (1982),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteATribeCalledQuestCanIKickIt(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette A Tribe Called Quest - Can I Kick It (1990),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteAHaTakeOnMe(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette A-Ha - Take On Me (1985),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteABBADancingQueen(1976)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette ABBA - Dancing Queen (1976),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteACDCBackInBlack(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette ACDC - Back In Black (1980),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteAlabamaSongoftheSouth(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Alabama - Song of the South (1988),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteAmericaAHorseWithNoName(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette America - A Horse With No Name (1972),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteAmericaSisterGoldenHair(1975)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette America - Sister Golden Hair (1975),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteArvoPartSpiegelImSpiegel(1978)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Arvo Part - Spiegel Im Spiegel (1978),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteBeGoodTanyasDogsongakaSleepDogLullaby(2011)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteBeGoodTanyasUpAgainstTheWall(2011)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Be Good Tanyas - Up Against The Wall (2011),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteBeastieBoysIntergalactic(1998)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Beastie Boys - Intergalactic (1998),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBeastieBoysSabotage(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Beastie Boys - Sabotage (1994),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBeeGeesMoreThanAWoman(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Bee Gees - More Than A Woman (1977),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteBillyIdolDancingwithmyself(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Billy Idol - Dancing with myself (1980),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteBillyJoelPianoMan(1973)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Billy Joel - Piano Man (1973),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteBillyJoelUptownGirl(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Billy Joel - Uptown Girl (1983),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteBlondieHeartOfGlass(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Blondie - Heart Of Glass (1979),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBobDylanHighway61Revisited(1965)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Bob Dylan - Highway 61 Revisited (1965),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteBobDylanJustLikeTomThumb'sBlues(1965)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Bob Dylan - Just Like Tom Thumb's Blues (1965),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteBobDylanLastThoughtsOnWoodyGuthrie(1963)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Bob Dylan - Last Thoughts On Woody Guthrie (1963),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteBobDylanVisionsOfJohanna(1966)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Bob Dylan - Visions Of Johanna (1966),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteBobMarley&TheWailersJamming(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Jamming (1977),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteBobMarley&TheWailersRedemptionSong(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Redemption Song (1980),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteBobMarley&TheWailersThreeLittleBirds(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Bob Marley & The Wailers - Three Little Birds (1977),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteBobbyMcFerrinDon'tWorryBeHappy(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Bobby McFerrin - Don't Worry Be Happy (1988),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteBonJoviLivin'OnAPrayer(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Bon Jovi - Livin' On A Prayer (1986),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteBoneyMGattagohome(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Boney M. - Gatta go home (1979),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteBoyzIIMenMotownphilly(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Boyz II Men - Motownphilly (1991),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteBruceHornsbyTheWayItIs(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Bruce Hornsby - The Way It Is (1986),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteBryanAdamsSummerOf'69(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Bryan Adams - Summer Of '69 (1984),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteChumbawambaTubthumping(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Chumbawamba - Tubthumping (1997),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteClashRocktheCasbah(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Clash - Rock the Casbah (1982),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteCoolioGangsta'sParadise(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Coolio - Gangsta's Paradise (1995),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteCreedenceClearwaterRevivalFortunateSon(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Creedence Clearwater Revival - Fortunate Son (1969),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteCreedenceClearwaterRevivalHaveYouEverSeentheRain(1968)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Creedence Clearwater Revival - Have You Ever Seen the Rain (1968),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteCultureClubKarmaChameleon(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Culture Club - Karma Chameleon (1983),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteCyndiLauperAllThroughTheNight(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Cyndi Lauper - All Through The Night (1983),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteCyndiLauperGirlsJustWantToHaveFun(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Cyndi Lauper - Girls Just Want To Have Fun (1983),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteCyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteCyndiLauperIDroveAllNight(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Cyndi Lauper - I Drove All Night (1989),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteCyndiLauperSheBop(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Cyndi Lauper - She Bop (1983),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteCyndiLauperTheGoonies'R'GoodEnough(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Cyndi Lauper - The Goonies 'R' Good Enough (1985),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteCyndiLauperWhenYouWereMine(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Cyndi Lauper - When You Were Mine (1985),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteDarylHall&JohnOatesManeater(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Daryl Hall & John Oates - Maneater (1982),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteDavidBowieSpaceOddity(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette David Bowie  Space Oddity (1969),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteDavidBowie&QueenUnderPressure(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette David Bowie & Queen - Under Pressure (1981),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteDavidBowieSuffragetteCity(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette David Bowie - Suffragette City (1972),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteDavidBowieThemanwhosoldtheworld(1970)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette David Bowie - The man who sold the world (1970),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteDevoWhipIt(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Devo - Whip It (1980),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteDonMcleanAmericanPie(1971)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Don Mclean - American Pie (1971),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteEaglesHotelCalifornia(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Eagles - Hotel California (1977),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteELOMrBlueSky(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette ELO - Mr. Blue Sky (1977),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteEltonJohnRocketMan(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Elton John - Rocket Man (1972),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteEuropeTheFinalCountdown(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Europe - The Final Countdown (1986),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteGaryNumanCars(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Gary Numan - Cars (1979),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteGershonKingsleyPopcorn(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Gershon Kingsley - Popcorn (1969),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteGunsN'RosesWelcomeToTheJungle(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Guns N' Roses - Welcome To The Jungle (1987),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteHouseofPainJumpAround(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette House of Pain - Jump Around (1992),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteJimCroceTimeInABottle(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Jim Croce - Time In A Bottle (1972),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteKansasDustintheWind(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Kansas - Dust in the Wind (1977),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteKennyLogginsDangerZone(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Kenny Loggins - Danger Zone (1986),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteKraftwerkPocketCalculator(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Kraftwerk - Pocket Calculator (1981),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteLaurieAndersonOSuperman(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Laurie Anderson - O Superman (1981),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteLeonardCohenFamousBlueRaincoat(1971)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Leonard Cohen - Famous Blue Raincoat (1971),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteLLCOOLJMamaSaidKnockYouOut(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette LL COOL J - Mama Said Knock You Out (1990),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteLouReedPerfectDay(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Lou Reed - Perfect Day (1972),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteLouReedWalkontheWildSide(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Lou Reed - Walk on the Wild Side (1972),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteLoverboyWorkingfortheWeekend(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Loverboy - Working for the Weekend (1981),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteLynrydSkynyrdSweetHomeAlabama(1974)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Lynryd Skynyrd - Sweet Home Alabama (1974),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteMadonnaLikeAVirgin(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Madonna - Like A Virgin (1984),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteMatthewWilderBreakMyStride(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Matthew Wilder - Break My Stride (1983),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteMCHammerUCan'tTouchThis(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette MC Hammer - U Can't Touch This (1990),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteMichaelJacksonBeatIt(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Michael Jackson - Beat It (1982),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteMichaelJacksonThriller(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Michael Jackson - Thriller (1983),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteMotorheadAceOfSpades(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Motorhead - Ace Of Spades (1980),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteNatalieImbrugliaTorn(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Natalie Imbruglia - Torn (1997),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteNaughtyByNatureOPP(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Naughty By Nature - O.P.P. (1991),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteNeilYoungCinnamonGirl(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Neil Young - Cinnamon Girl (1969),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteNeilYoungCowgirlInTheSand(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Neil Young - Cowgirl In The Sand (1969),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteNENA99RedBalloons(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette NENA - 99 Red Balloons (1984),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassettePinkFloydComfortablyNumb(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Pink Floyd - Comfortably Numb (1980),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteQueenAnotherOneBitestheDust(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Queen - Another One Bites the Dust (1980),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteQueenBohemianRhapsody(1975)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Queen - Bohemian Rhapsody (1975),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteRedboneComeandGetYourLove(1973)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Redbone - Come and Get Your Love (1973),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteREOSpeedwagonCan'tFightThisFeeling(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette REO Speedwagon - Can't Fight This Feeling (1984),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteRickAstleyNeverGonnaGiveYouUp(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Rick Astley - Never Gonna Give You Up (1987),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteRollingStonesPaintItBlack(1966)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Rolling Stones - Paint It Black (1966),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteSaltNPepaShoop(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Salt-N-Pepa - Shoop (1993),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteScatman(skibabopbadopbop)(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Scatman (ski-ba-bop-ba-dop-bop) (1995),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteSimon&GarfunkelCecilia(1970)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Simon & Garfunkel - Cecilia (1970),
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSimon&GarfunkelMrsRobinson(1968)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Simon & Garfunkel - Mrs. Robinson (1968),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSineadO'ConnorNothingCompares2U(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Sinead O'Connor - Nothing Compares 2 U (1992),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSirMixALotBabyGotBack(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Sir Mix-A-Lot - Baby Got Back (1992),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteStarshipNothing'sGonnaStopUsNow(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Starship - Nothing's Gonna Stop Us Now (1987),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteSteveEarleColoradoGirl(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Steve Earle - Colorado Girl (2009),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteSteveEarleLoretta(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Steve Earle - Loretta (2009),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteSteveEarleWhiteFreightlinerBlues(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Steve Earle - White Freightliner Blues (2009),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteTacoPuttin'OnTheRitz(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Taco - Puttin' On The Ritz (1982),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteTalkingHeadsOnceinaLifetime(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Talking Heads - Once in a Lifetime (1980),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteTalkingHeadsPsychoKiller(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Talking Heads - Psycho Killer (1977),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteTearsforFearsEverybodyWantstoRuletheWorld(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Tears for Fears - Everybody Wants to Rule the World (1985),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteTechnoSyndrome(MortalKombat)(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Techno Syndrome (Mortal Kombat) (1994),
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteTechnotronicPumpUpTheJam(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Technotronic - Pump Up The Jam (1989),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteTheAnimalsHouseoftheRisingSun(1964)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette The Animals - House of the Rising Sun (1964),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteTheBeachBoysKokomo(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette The Beach Boys - Kokomo (1988),
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteTheBugglesVideoKilledtheRadioStar(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette The Buggles - Video Killed the Radio Star (1979),
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteTheLastofUs(2013)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette The Last of Us (2013),
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteTheOhHellosSoldierPoetKing(2015)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette The Oh Hellos - Soldier Poet King (2015),
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteThePoliceEverybreathyoutake(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette The Police - Every breath you take (1983),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteThePoliceRoxanne(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette The Police - Roxanne (1979),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteTheProdigyBreathe(1996)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette The Prodigy - Breathe (1996),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteTheShinsNewSlang(2001)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette The Shins - New Slang (2001),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteTheStranglersGoldenBrown(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette The Stranglers - Golden Brown (1981),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteTheVerveBitterSweetSymphony(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette The Verve - Bitter Sweet Symphony (1997),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteTiffanyIThinkWe'reAloneNow(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Tiffany - I Think We're Alone Now (1987),
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteTomPettyFreeFalling(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Tom Petty - Free Falling (1988),
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteToneLocFunkyColdMedina(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Tone-Loc - Funky Cold Medina (1989),
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteTwistedSisterWe'reNotGonnaTakeIt(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Twisted Sister - We're Not Gonna Take It (1984),
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteVanillaIceIceIceBaby(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Vanilla Ice - Ice Ice Baby (1990),
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+}

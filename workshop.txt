@@ -1,0 +1,6 @@
+version=1
+id=2998791798
+title=True Music Addon: Berny's mixtape
+description=Listen to the hottest beats of the times while slaying zeds
+tags=Build 41;Items;Multiplayer;Pop Culture
+visibility=public

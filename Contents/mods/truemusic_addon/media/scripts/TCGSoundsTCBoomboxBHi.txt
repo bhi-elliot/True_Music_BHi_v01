@@ -1,0 +1,1203 @@
+module Tsarcraft
+{
+	sound CassetteAFlockOfSeagullsIRan(SoFarAway)(1982)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/A Flock Of Seagulls - I Ran (So Far Away) (1982).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteATribeCalledQuestCanIKickIt(1990)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/A Tribe Called Quest - Can I Kick It (1990).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAHaTakeOnMe(1985)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/A-Ha - Take On Me (1985).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteABBADancingQueen(1976)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/ABBA - Dancing Queen (1976).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteACDCBackInBlack(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/ACDC - Back In Black (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAlabamaSongoftheSouth(1988)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Alabama - Song of the South (1988).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAmericaAHorseWithNoName(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/America - A Horse With No Name (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteAmericaSisterGoldenHair(1975)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/America - Sister Golden Hair (1975).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteArvoPartSpiegelImSpiegel(1978)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Arvo Part - Spiegel Im Spiegel (1978).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBeGoodTanyasDogsongakaSleepDogLullaby(2011)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBeGoodTanyasUpAgainstTheWall(2011)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Be Good Tanyas - Up Against The Wall (2011).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBeastieBoysIntergalactic(1998)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Beastie Boys - Intergalactic (1998).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBeastieBoysSabotage(1994)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Beastie Boys - Sabotage (1994).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBeeGeesMoreThanAWoman(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bee Gees - More Than A Woman (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBillyIdolDancingwithmyself(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Billy Idol - Dancing with myself (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBillyJoelPianoMan(1973)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Billy Joel - Piano Man (1973).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBillyJoelUptownGirl(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Billy Joel - Uptown Girl (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBlondieHeartOfGlass(1979)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Blondie - Heart Of Glass (1979).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobDylanHighway61Revisited(1965)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Dylan - Highway 61 Revisited (1965).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobDylanJustLikeTomThumb'sBlues(1965)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Dylan - Just Like Tom Thumb's Blues (1965).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobDylanLastThoughtsOnWoodyGuthrie(1963)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Dylan - Last Thoughts On Woody Guthrie (1963).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobDylanVisionsOfJohanna(1966)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Dylan - Visions Of Johanna (1966).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobMarley&TheWailersJamming(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Marley & The Wailers - Jamming (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobMarley&TheWailersRedemptionSong(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Marley & The Wailers - Redemption Song (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobMarley&TheWailersThreeLittleBirds(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bob Marley & The Wailers - Three Little Birds (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBobbyMcFerrinDon'tWorryBeHappy(1988)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bobby McFerrin - Don't Worry Be Happy (1988).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBonJoviLivin'OnAPrayer(1986)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bon Jovi - Livin' On A Prayer (1986).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBoneyMGattagohome(1979)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Boney M. - Gatta go home (1979).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBoyzIIMenMotownphilly(1991)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Boyz II Men - Motownphilly (1991).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBruceHornsbyTheWayItIs(1986)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bruce Hornsby - The Way It Is (1986).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBryanAdamsSummerOf'69(1984)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bryan Adams - Summer Of '69 (1984).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteChumbawambaTubthumping(1997)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Chumbawamba - Tubthumping (1997).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteClashRocktheCasbah(1982)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Clash - Rock the Casbah (1982).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCoolioGangsta'sParadise(1995)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Coolio - Gangsta's Paradise (1995).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCreedenceClearwaterRevivalFortunateSon(1969)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Creedence Clearwater Revival - Fortunate Son (1969).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCreedenceClearwaterRevivalHaveYouEverSeentheRain(1968)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Creedence Clearwater Revival - Have You Ever Seen the Rain (1968).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCultureClubKarmaChameleon(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Culture Club - Karma Chameleon (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperAllThroughTheNight(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - All Through The Night (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperGirlsJustWantToHaveFun(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - Girls Just Want To Have Fun (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperIDroveAllNight(1989)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - I Drove All Night (1989).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperSheBop(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - She Bop (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperTheGoonies'R'GoodEnough(1985)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - The Goonies 'R' Good Enough (1985).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCyndiLauperWhenYouWereMine(1985)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Cyndi Lauper - When You Were Mine (1985).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDarylHall&JohnOatesManeater(1982)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Daryl Hall & John Oates - Maneater (1982).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDavidBowieSpaceOddity(1969)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/David Bowie  Space Oddity (1969).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDavidBowie&QueenUnderPressure(1981)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/David Bowie & Queen - Under Pressure (1981).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDavidBowieSuffragetteCity(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/David Bowie - Suffragette City (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDavidBowieThemanwhosoldtheworld(1970)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/David Bowie - The man who sold the world (1970).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDevoWhipIt(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Devo - Whip It (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDonMcleanAmericanPie(1971)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Don Mclean - American Pie (1971).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEaglesHotelCalifornia(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Eagles - Hotel California (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteELOMrBlueSky(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/ELO - Mr. Blue Sky (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEltonJohnRocketMan(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Elton John - Rocket Man (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteEuropeTheFinalCountdown(1986)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Europe - The Final Countdown (1986).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGaryNumanCars(1979)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Gary Numan - Cars (1979).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGershonKingsleyPopcorn(1969)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Gershon Kingsley - Popcorn (1969).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteGunsN'RosesWelcomeToTheJungle(1987)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Guns N' Roses - Welcome To The Jungle (1987).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteHouseofPainJumpAround(1992)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/House of Pain - Jump Around (1992).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteJimCroceTimeInABottle(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Jim Croce - Time In A Bottle (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKansasDustintheWind(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kansas - Dust in the Wind (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKennyLogginsDangerZone(1986)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kenny Loggins - Danger Zone (1986).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteKraftwerkPocketCalculator(1981)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Kraftwerk - Pocket Calculator (1981).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLaurieAndersonOSuperman(1981)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Laurie Anderson - O Superman (1981).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLeonardCohenFamousBlueRaincoat(1971)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Leonard Cohen - Famous Blue Raincoat (1971).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLLCOOLJMamaSaidKnockYouOut(1990)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/LL COOL J - Mama Said Knock You Out (1990).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLouReedPerfectDay(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lou Reed - Perfect Day (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLouReedWalkontheWildSide(1972)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lou Reed - Walk on the Wild Side (1972).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLoverboyWorkingfortheWeekend(1981)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Loverboy - Working for the Weekend (1981).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteLynrydSkynyrdSweetHomeAlabama(1974)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lynryd Skynyrd - Sweet Home Alabama (1974).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMadonnaLikeAVirgin(1984)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Madonna - Like A Virgin (1984).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMatthewWilderBreakMyStride(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Matthew Wilder - Break My Stride (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMCHammerUCan'tTouchThis(1990)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/MC Hammer - U Can't Touch This (1990).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMichaelJacksonBeatIt(1982)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Michael Jackson - Beat It (1982).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMichaelJacksonThriller(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Michael Jackson - Thriller (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMotorheadAceOfSpades(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Motorhead - Ace Of Spades (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNatalieImbrugliaTorn(1997)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Natalie Imbruglia - Torn (1997).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNaughtyByNatureOPP(1991)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Naughty By Nature - O.P.P. (1991).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNeilYoungCinnamonGirl(1969)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Neil Young - Cinnamon Girl (1969).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNeilYoungCowgirlInTheSand(1969)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Neil Young - Cowgirl In The Sand (1969).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteNENA99RedBalloons(1984)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/NENA - 99 Red Balloons (1984).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePinkFloydComfortablyNumb(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Pink Floyd - Comfortably Numb (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteQueenAnotherOneBitestheDust(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Queen - Another One Bites the Dust (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteQueenBohemianRhapsody(1975)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Queen - Bohemian Rhapsody (1975).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRedboneComeandGetYourLove(1973)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Redbone - Come and Get Your Love (1973).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteREOSpeedwagonCan'tFightThisFeeling(1984)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/REO Speedwagon - Can't Fight This Feeling (1984).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRickAstleyNeverGonnaGiveYouUp(1987)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rick Astley - Never Gonna Give You Up (1987).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteRollingStonesPaintItBlack(1966)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Rolling Stones - Paint It Black (1966).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSaltNPepaShoop(1993)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Salt-N-Pepa - Shoop (1993).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteScatman(skibabopbadopbop)(1995)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Scatman (ski-ba-bop-ba-dop-bop) (1995).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSimon&GarfunkelCecilia(1970)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Simon & Garfunkel - Cecilia (1970).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSimon&GarfunkelMrsRobinson(1968)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Simon & Garfunkel - Mrs. Robinson (1968).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSineadO'ConnorNothingCompares2U(1992)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sinead O'Connor - Nothing Compares 2 U (1992).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSirMixALotBabyGotBack(1992)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sir Mix-A-Lot - Baby Got Back (1992).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteStarshipNothing'sGonnaStopUsNow(1987)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Starship - Nothing's Gonna Stop Us Now (1987).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSteveEarleColoradoGirl(2009)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Steve Earle - Colorado Girl (2009).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSteveEarleLoretta(2009)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Steve Earle - Loretta (2009).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSteveEarleWhiteFreightlinerBlues(2009)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Steve Earle - White Freightliner Blues (2009).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTacoPuttin'OnTheRitz(1982)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Taco - Puttin' On The Ritz (1982).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTalkingHeadsOnceinaLifetime(1980)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Talking Heads - Once in a Lifetime (1980).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTalkingHeadsPsychoKiller(1977)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Talking Heads - Psycho Killer (1977).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTearsforFearsEverybodyWantstoRuletheWorld(1985)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tears for Fears - Everybody Wants to Rule the World (1985).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTechnoSyndrome(MortalKombat)(1994)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Techno Syndrome (Mortal Kombat) (1994).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTechnotronicPumpUpTheJam(1989)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Technotronic - Pump Up The Jam (1989).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheAnimalsHouseoftheRisingSun(1964)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Animals - House of the Rising Sun (1964).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheBeachBoysKokomo(1988)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Beach Boys - Kokomo (1988).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheBugglesVideoKilledtheRadioStar(1979)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Buggles - Video Killed the Radio Star (1979).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheLastofUs(2013)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Last of Us (2013).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheOhHellosSoldierPoetKing(2015)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Oh Hellos - Soldier Poet King (2015).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteThePoliceEverybreathyoutake(1983)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Police - Every breath you take (1983).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteThePoliceRoxanne(1979)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Police - Roxanne (1979).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheProdigyBreathe(1996)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Prodigy - Breathe (1996).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheShinsNewSlang(2001)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Shins - New Slang (2001).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheStranglersGoldenBrown(1981)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Stranglers - Golden Brown (1981).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheVerveBitterSweetSymphony(1997)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The Verve - Bitter Sweet Symphony (1997).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTiffanyIThinkWe'reAloneNow(1987)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tiffany - I Think We're Alone Now (1987).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTomPettyFreeFalling(1988)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tom Petty - Free Falling (1988).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteToneLocFunkyColdMedina(1989)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Tone-Loc - Funky Cold Medina (1989).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTwistedSisterWe'reNotGonnaTakeIt(1984)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Twisted Sister - We're Not Gonna Take It (1984).ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteVanillaIceIceIceBaby(1990)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Vanilla Ice - Ice Ice Baby (1990).ogg,
+			distanceMax = 75,
+		}
+	}
+}

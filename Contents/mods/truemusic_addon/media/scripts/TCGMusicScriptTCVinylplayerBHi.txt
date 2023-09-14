@@ -1,0 +1,2049 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	model VinylAFlockOfSeagullsIRan(SoFarAway)(1982)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AFlockOfSeagullsIRan(SoFarAway)(1982),
+		scale	=	0.0012,
+	}
+
+	item VinylAFlockOfSeagullsIRan(SoFarAway)(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl A Flock Of Seagulls - I Ran (So Far Away) (1982),
+		WorldStaticModel = Tsarcraft.VinylAFlockOfSeagullsIRan(SoFarAway)(1982)Model,
+	}
+
+	model VinylATribeCalledQuestCanIKickIt(1990)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ATribeCalledQuestCanIKickIt(1990),
+		scale	=	0.0012,
+	}
+
+	item VinylATribeCalledQuestCanIKickIt(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl A Tribe Called Quest - Can I Kick It (1990),
+		WorldStaticModel = Tsarcraft.VinylATribeCalledQuestCanIKickIt(1990)Model,
+	}
+
+	model VinylAHaTakeOnMe(1985)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AHaTakeOnMe(1985),
+		scale	=	0.0012,
+	}
+
+	item VinylAHaTakeOnMe(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl A-Ha - Take On Me (1985),
+		WorldStaticModel = Tsarcraft.VinylAHaTakeOnMe(1985)Model,
+	}
+
+	model VinylABBADancingQueen(1976)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ABBADancingQueen(1976),
+		scale	=	0.0012,
+	}
+
+	item VinylABBADancingQueen(1976)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl ABBA - Dancing Queen (1976),
+		WorldStaticModel = Tsarcraft.VinylABBADancingQueen(1976)Model,
+	}
+
+	model VinylACDCBackInBlack(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ACDCBackInBlack(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylACDCBackInBlack(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl ACDC - Back In Black (1980),
+		WorldStaticModel = Tsarcraft.VinylACDCBackInBlack(1980)Model,
+	}
+
+	model VinylAlabamaSongoftheSouth(1988)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AlabamaSongoftheSouth(1988),
+		scale	=	0.0012,
+	}
+
+	item VinylAlabamaSongoftheSouth(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Alabama - Song of the South (1988),
+		WorldStaticModel = Tsarcraft.VinylAlabamaSongoftheSouth(1988)Model,
+	}
+
+	model VinylAmericaAHorseWithNoName(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AmericaAHorseWithNoName(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylAmericaAHorseWithNoName(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl America - A Horse With No Name (1972),
+		WorldStaticModel = Tsarcraft.VinylAmericaAHorseWithNoName(1972)Model,
+	}
+
+	model VinylAmericaSisterGoldenHair(1975)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/AmericaSisterGoldenHair(1975),
+		scale	=	0.0012,
+	}
+
+	item VinylAmericaSisterGoldenHair(1975)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl America - Sister Golden Hair (1975),
+		WorldStaticModel = Tsarcraft.VinylAmericaSisterGoldenHair(1975)Model,
+	}
+
+	model VinylArvoPartSpiegelImSpiegel(1978)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ArvoPartSpiegelImSpiegel(1978),
+		scale	=	0.0012,
+	}
+
+	item VinylArvoPartSpiegelImSpiegel(1978)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Arvo Part - Spiegel Im Spiegel (1978),
+		WorldStaticModel = Tsarcraft.VinylArvoPartSpiegelImSpiegel(1978)Model,
+	}
+
+	model VinylBeGoodTanyasDogsongakaSleepDogLullaby(2011)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BeGoodTanyasDogsongakaSleepDogLullaby(2011),
+		scale	=	0.0012,
+	}
+
+	item VinylBeGoodTanyasDogsongakaSleepDogLullaby(2011)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Be Good Tanyas - Dogsong aka Sleep Dog Lullaby (2011),
+		WorldStaticModel = Tsarcraft.VinylBeGoodTanyasDogsongakaSleepDogLullaby(2011)Model,
+	}
+
+	model VinylBeGoodTanyasUpAgainstTheWall(2011)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BeGoodTanyasUpAgainstTheWall(2011),
+		scale	=	0.0012,
+	}
+
+	item VinylBeGoodTanyasUpAgainstTheWall(2011)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Be Good Tanyas - Up Against The Wall (2011),
+		WorldStaticModel = Tsarcraft.VinylBeGoodTanyasUpAgainstTheWall(2011)Model,
+	}
+
+	model VinylBeastieBoysIntergalactic(1998)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BeastieBoysIntergalactic(1998),
+		scale	=	0.0012,
+	}
+
+	item VinylBeastieBoysIntergalactic(1998)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Beastie Boys - Intergalactic (1998),
+		WorldStaticModel = Tsarcraft.VinylBeastieBoysIntergalactic(1998)Model,
+	}
+
+	model VinylBeastieBoysSabotage(1994)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BeastieBoysSabotage(1994),
+		scale	=	0.0012,
+	}
+
+	item VinylBeastieBoysSabotage(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Beastie Boys - Sabotage (1994),
+		WorldStaticModel = Tsarcraft.VinylBeastieBoysSabotage(1994)Model,
+	}
+
+	model VinylBeeGeesMoreThanAWoman(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BeeGeesMoreThanAWoman(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylBeeGeesMoreThanAWoman(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Bee Gees - More Than A Woman (1977),
+		WorldStaticModel = Tsarcraft.VinylBeeGeesMoreThanAWoman(1977)Model,
+	}
+
+	model VinylBillyIdolDancingwithmyself(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BillyIdolDancingwithmyself(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylBillyIdolDancingwithmyself(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Billy Idol - Dancing with myself (1980),
+		WorldStaticModel = Tsarcraft.VinylBillyIdolDancingwithmyself(1980)Model,
+	}
+
+	model VinylBillyJoelPianoMan(1973)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BillyJoelPianoMan(1973),
+		scale	=	0.0012,
+	}
+
+	item VinylBillyJoelPianoMan(1973)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Billy Joel - Piano Man (1973),
+		WorldStaticModel = Tsarcraft.VinylBillyJoelPianoMan(1973)Model,
+	}
+
+	model VinylBillyJoelUptownGirl(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BillyJoelUptownGirl(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylBillyJoelUptownGirl(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Billy Joel - Uptown Girl (1983),
+		WorldStaticModel = Tsarcraft.VinylBillyJoelUptownGirl(1983)Model,
+	}
+
+	model VinylBlondieHeartOfGlass(1979)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BlondieHeartOfGlass(1979),
+		scale	=	0.0012,
+	}
+
+	item VinylBlondieHeartOfGlass(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Blondie - Heart Of Glass (1979),
+		WorldStaticModel = Tsarcraft.VinylBlondieHeartOfGlass(1979)Model,
+	}
+
+	model VinylBobDylanHighway61Revisited(1965)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobDylanHighway61Revisited(1965),
+		scale	=	0.0012,
+	}
+
+	item VinylBobDylanHighway61Revisited(1965)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Bob Dylan - Highway 61 Revisited (1965),
+		WorldStaticModel = Tsarcraft.VinylBobDylanHighway61Revisited(1965)Model,
+	}
+
+	model VinylBobDylanJustLikeTomThumb'sBlues(1965)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobDylanJustLikeTomThumb'sBlues(1965),
+		scale	=	0.0012,
+	}
+
+	item VinylBobDylanJustLikeTomThumb'sBlues(1965)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bob Dylan - Just Like Tom Thumb's Blues (1965),
+		WorldStaticModel = Tsarcraft.VinylBobDylanJustLikeTomThumb'sBlues(1965)Model,
+	}
+
+	model VinylBobDylanLastThoughtsOnWoodyGuthrie(1963)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobDylanLastThoughtsOnWoodyGuthrie(1963),
+		scale	=	0.0012,
+	}
+
+	item VinylBobDylanLastThoughtsOnWoodyGuthrie(1963)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Bob Dylan - Last Thoughts On Woody Guthrie (1963),
+		WorldStaticModel = Tsarcraft.VinylBobDylanLastThoughtsOnWoodyGuthrie(1963)Model,
+	}
+
+	model VinylBobDylanVisionsOfJohanna(1966)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobDylanVisionsOfJohanna(1966),
+		scale	=	0.0012,
+	}
+
+	item VinylBobDylanVisionsOfJohanna(1966)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Bob Dylan - Visions Of Johanna (1966),
+		WorldStaticModel = Tsarcraft.VinylBobDylanVisionsOfJohanna(1966)Model,
+	}
+
+	model VinylBobMarley&TheWailersJamming(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobMarley&TheWailersJamming(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylBobMarley&TheWailersJamming(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Bob Marley & The Wailers - Jamming (1977),
+		WorldStaticModel = Tsarcraft.VinylBobMarley&TheWailersJamming(1977)Model,
+	}
+
+	model VinylBobMarley&TheWailersRedemptionSong(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobMarley&TheWailersRedemptionSong(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylBobMarley&TheWailersRedemptionSong(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Bob Marley & The Wailers - Redemption Song (1980),
+		WorldStaticModel = Tsarcraft.VinylBobMarley&TheWailersRedemptionSong(1980)Model,
+	}
+
+	model VinylBobMarley&TheWailersThreeLittleBirds(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobMarley&TheWailersThreeLittleBirds(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylBobMarley&TheWailersThreeLittleBirds(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Bob Marley & The Wailers - Three Little Birds (1977),
+		WorldStaticModel = Tsarcraft.VinylBobMarley&TheWailersThreeLittleBirds(1977)Model,
+	}
+
+	model VinylBobbyMcFerrinDon'tWorryBeHappy(1988)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BobbyMcFerrinDon'tWorryBeHappy(1988),
+		scale	=	0.0012,
+	}
+
+	item VinylBobbyMcFerrinDon'tWorryBeHappy(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Bobby McFerrin - Don't Worry Be Happy (1988),
+		WorldStaticModel = Tsarcraft.VinylBobbyMcFerrinDon'tWorryBeHappy(1988)Model,
+	}
+
+	model VinylBonJoviLivin'OnAPrayer(1986)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BonJoviLivin'OnAPrayer(1986),
+		scale	=	0.0012,
+	}
+
+	item VinylBonJoviLivin'OnAPrayer(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Bon Jovi - Livin' On A Prayer (1986),
+		WorldStaticModel = Tsarcraft.VinylBonJoviLivin'OnAPrayer(1986)Model,
+	}
+
+	model VinylBoneyMGattagohome(1979)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BoneyMGattagohome(1979),
+		scale	=	0.0012,
+	}
+
+	item VinylBoneyMGattagohome(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Boney M. - Gatta go home (1979),
+		WorldStaticModel = Tsarcraft.VinylBoneyMGattagohome(1979)Model,
+	}
+
+	model VinylBoyzIIMenMotownphilly(1991)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BoyzIIMenMotownphilly(1991),
+		scale	=	0.0012,
+	}
+
+	item VinylBoyzIIMenMotownphilly(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Boyz II Men - Motownphilly (1991),
+		WorldStaticModel = Tsarcraft.VinylBoyzIIMenMotownphilly(1991)Model,
+	}
+
+	model VinylBruceHornsbyTheWayItIs(1986)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BruceHornsbyTheWayItIs(1986),
+		scale	=	0.0012,
+	}
+
+	item VinylBruceHornsbyTheWayItIs(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Bruce Hornsby - The Way It Is (1986),
+		WorldStaticModel = Tsarcraft.VinylBruceHornsbyTheWayItIs(1986)Model,
+	}
+
+	model VinylBryanAdamsSummerOf'69(1984)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/BryanAdamsSummerOf'69(1984),
+		scale	=	0.0012,
+	}
+
+	item VinylBryanAdamsSummerOf'69(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Bryan Adams - Summer Of '69 (1984),
+		WorldStaticModel = Tsarcraft.VinylBryanAdamsSummerOf'69(1984)Model,
+	}
+
+	model VinylChumbawambaTubthumping(1997)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ChumbawambaTubthumping(1997),
+		scale	=	0.0012,
+	}
+
+	item VinylChumbawambaTubthumping(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Chumbawamba - Tubthumping (1997),
+		WorldStaticModel = Tsarcraft.VinylChumbawambaTubthumping(1997)Model,
+	}
+
+	model VinylClashRocktheCasbah(1982)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ClashRocktheCasbah(1982),
+		scale	=	0.0012,
+	}
+
+	item VinylClashRocktheCasbah(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Clash - Rock the Casbah (1982),
+		WorldStaticModel = Tsarcraft.VinylClashRocktheCasbah(1982)Model,
+	}
+
+	model VinylCoolioGangsta'sParadise(1995)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CoolioGangsta'sParadise(1995),
+		scale	=	0.0012,
+	}
+
+	item VinylCoolioGangsta'sParadise(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Coolio - Gangsta's Paradise (1995),
+		WorldStaticModel = Tsarcraft.VinylCoolioGangsta'sParadise(1995)Model,
+	}
+
+	model VinylCreedenceClearwaterRevivalFortunateSon(1969)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CreedenceClearwaterRevivalFortunateSon(1969),
+		scale	=	0.0012,
+	}
+
+	item VinylCreedenceClearwaterRevivalFortunateSon(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Creedence Clearwater Revival - Fortunate Son (1969),
+		WorldStaticModel = Tsarcraft.VinylCreedenceClearwaterRevivalFortunateSon(1969)Model,
+	}
+
+	model VinylCreedenceClearwaterRevivalHaveYouEverSeentheRain(1968)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CreedenceClearwaterRevivalHaveYouEverSeentheRain(1968),
+		scale	=	0.0012,
+	}
+
+	item VinylCreedenceClearwaterRevivalHaveYouEverSeentheRain(1968)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Creedence Clearwater Revival - Have You Ever Seen the Rain (1968),
+		WorldStaticModel = Tsarcraft.VinylCreedenceClearwaterRevivalHaveYouEverSeentheRain(1968)Model,
+	}
+
+	model VinylCultureClubKarmaChameleon(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CultureClubKarmaChameleon(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylCultureClubKarmaChameleon(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Culture Club - Karma Chameleon (1983),
+		WorldStaticModel = Tsarcraft.VinylCultureClubKarmaChameleon(1983)Model,
+	}
+
+	model VinylCyndiLauperAllThroughTheNight(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperAllThroughTheNight(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperAllThroughTheNight(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Cyndi Lauper - All Through The Night (1983),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperAllThroughTheNight(1983)Model,
+	}
+
+	model VinylCyndiLauperGirlsJustWantToHaveFun(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperGirlsJustWantToHaveFun(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperGirlsJustWantToHaveFun(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Cyndi Lauper - Girls Just Want To Have Fun (1983),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperGirlsJustWantToHaveFun(1983)Model,
+	}
+
+	model VinylCyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Cyndi Lauper - Hey Now (Girls Just Want To Have Fun) (1983),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperHeyNow(GirlsJustWantToHaveFun)(1983)Model,
+	}
+
+	model VinylCyndiLauperIDroveAllNight(1989)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperIDroveAllNight(1989),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperIDroveAllNight(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Cyndi Lauper - I Drove All Night (1989),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperIDroveAllNight(1989)Model,
+	}
+
+	model VinylCyndiLauperSheBop(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperSheBop(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperSheBop(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Cyndi Lauper - She Bop (1983),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperSheBop(1983)Model,
+	}
+
+	model VinylCyndiLauperTheGoonies'R'GoodEnough(1985)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperTheGoonies'R'GoodEnough(1985),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperTheGoonies'R'GoodEnough(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Cyndi Lauper - The Goonies 'R' Good Enough (1985),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperTheGoonies'R'GoodEnough(1985)Model,
+	}
+
+	model VinylCyndiLauperWhenYouWereMine(1985)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/CyndiLauperWhenYouWereMine(1985),
+		scale	=	0.0012,
+	}
+
+	item VinylCyndiLauperWhenYouWereMine(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Cyndi Lauper - When You Were Mine (1985),
+		WorldStaticModel = Tsarcraft.VinylCyndiLauperWhenYouWereMine(1985)Model,
+	}
+
+	model VinylDarylHall&JohnOatesManeater(1982)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DarylHall&JohnOatesManeater(1982),
+		scale	=	0.0012,
+	}
+
+	item VinylDarylHall&JohnOatesManeater(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Daryl Hall & John Oates - Maneater (1982),
+		WorldStaticModel = Tsarcraft.VinylDarylHall&JohnOatesManeater(1982)Model,
+	}
+
+	model VinylDavidBowieSpaceOddity(1969)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DavidBowieSpaceOddity(1969),
+		scale	=	0.0012,
+	}
+
+	item VinylDavidBowieSpaceOddity(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl David Bowie  Space Oddity (1969),
+		WorldStaticModel = Tsarcraft.VinylDavidBowieSpaceOddity(1969)Model,
+	}
+
+	model VinylDavidBowie&QueenUnderPressure(1981)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DavidBowie&QueenUnderPressure(1981),
+		scale	=	0.0012,
+	}
+
+	item VinylDavidBowie&QueenUnderPressure(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl David Bowie & Queen - Under Pressure (1981),
+		WorldStaticModel = Tsarcraft.VinylDavidBowie&QueenUnderPressure(1981)Model,
+	}
+
+	model VinylDavidBowieSuffragetteCity(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DavidBowieSuffragetteCity(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylDavidBowieSuffragetteCity(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl David Bowie - Suffragette City (1972),
+		WorldStaticModel = Tsarcraft.VinylDavidBowieSuffragetteCity(1972)Model,
+	}
+
+	model VinylDavidBowieThemanwhosoldtheworld(1970)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DavidBowieThemanwhosoldtheworld(1970),
+		scale	=	0.0012,
+	}
+
+	item VinylDavidBowieThemanwhosoldtheworld(1970)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl David Bowie - The man who sold the world (1970),
+		WorldStaticModel = Tsarcraft.VinylDavidBowieThemanwhosoldtheworld(1970)Model,
+	}
+
+	model VinylDevoWhipIt(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DevoWhipIt(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylDevoWhipIt(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Devo - Whip It (1980),
+		WorldStaticModel = Tsarcraft.VinylDevoWhipIt(1980)Model,
+	}
+
+	model VinylDonMcleanAmericanPie(1971)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/DonMcleanAmericanPie(1971),
+		scale	=	0.0012,
+	}
+
+	item VinylDonMcleanAmericanPie(1971)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Don Mclean - American Pie (1971),
+		WorldStaticModel = Tsarcraft.VinylDonMcleanAmericanPie(1971)Model,
+	}
+
+	model VinylEaglesHotelCalifornia(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EaglesHotelCalifornia(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylEaglesHotelCalifornia(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Eagles - Hotel California (1977),
+		WorldStaticModel = Tsarcraft.VinylEaglesHotelCalifornia(1977)Model,
+	}
+
+	model VinylELOMrBlueSky(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ELOMrBlueSky(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylELOMrBlueSky(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl ELO - Mr. Blue Sky (1977),
+		WorldStaticModel = Tsarcraft.VinylELOMrBlueSky(1977)Model,
+	}
+
+	model VinylEltonJohnRocketMan(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EltonJohnRocketMan(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylEltonJohnRocketMan(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Elton John - Rocket Man (1972),
+		WorldStaticModel = Tsarcraft.VinylEltonJohnRocketMan(1972)Model,
+	}
+
+	model VinylEuropeTheFinalCountdown(1986)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/EuropeTheFinalCountdown(1986),
+		scale	=	0.0012,
+	}
+
+	item VinylEuropeTheFinalCountdown(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Europe - The Final Countdown (1986),
+		WorldStaticModel = Tsarcraft.VinylEuropeTheFinalCountdown(1986)Model,
+	}
+
+	model VinylGaryNumanCars(1979)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/GaryNumanCars(1979),
+		scale	=	0.0012,
+	}
+
+	item VinylGaryNumanCars(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Gary Numan - Cars (1979),
+		WorldStaticModel = Tsarcraft.VinylGaryNumanCars(1979)Model,
+	}
+
+	model VinylGershonKingsleyPopcorn(1969)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/GershonKingsleyPopcorn(1969),
+		scale	=	0.0012,
+	}
+
+	item VinylGershonKingsleyPopcorn(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Gershon Kingsley - Popcorn (1969),
+		WorldStaticModel = Tsarcraft.VinylGershonKingsleyPopcorn(1969)Model,
+	}
+
+	model VinylGunsN'RosesWelcomeToTheJungle(1987)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/GunsN'RosesWelcomeToTheJungle(1987),
+		scale	=	0.0012,
+	}
+
+	item VinylGunsN'RosesWelcomeToTheJungle(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Guns N' Roses - Welcome To The Jungle (1987),
+		WorldStaticModel = Tsarcraft.VinylGunsN'RosesWelcomeToTheJungle(1987)Model,
+	}
+
+	model VinylHouseofPainJumpAround(1992)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/HouseofPainJumpAround(1992),
+		scale	=	0.0012,
+	}
+
+	item VinylHouseofPainJumpAround(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl House of Pain - Jump Around (1992),
+		WorldStaticModel = Tsarcraft.VinylHouseofPainJumpAround(1992)Model,
+	}
+
+	model VinylJimCroceTimeInABottle(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/JimCroceTimeInABottle(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylJimCroceTimeInABottle(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Jim Croce - Time In A Bottle (1972),
+		WorldStaticModel = Tsarcraft.VinylJimCroceTimeInABottle(1972)Model,
+	}
+
+	model VinylKansasDustintheWind(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KansasDustintheWind(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylKansasDustintheWind(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Kansas - Dust in the Wind (1977),
+		WorldStaticModel = Tsarcraft.VinylKansasDustintheWind(1977)Model,
+	}
+
+	model VinylKennyLogginsDangerZone(1986)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KennyLogginsDangerZone(1986),
+		scale	=	0.0012,
+	}
+
+	item VinylKennyLogginsDangerZone(1986)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Kenny Loggins - Danger Zone (1986),
+		WorldStaticModel = Tsarcraft.VinylKennyLogginsDangerZone(1986)Model,
+	}
+
+	model VinylKraftwerkPocketCalculator(1981)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/KraftwerkPocketCalculator(1981),
+		scale	=	0.0012,
+	}
+
+	item VinylKraftwerkPocketCalculator(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Kraftwerk - Pocket Calculator (1981),
+		WorldStaticModel = Tsarcraft.VinylKraftwerkPocketCalculator(1981)Model,
+	}
+
+	model VinylLaurieAndersonOSuperman(1981)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LaurieAndersonOSuperman(1981),
+		scale	=	0.0012,
+	}
+
+	item VinylLaurieAndersonOSuperman(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Laurie Anderson - O Superman (1981),
+		WorldStaticModel = Tsarcraft.VinylLaurieAndersonOSuperman(1981)Model,
+	}
+
+	model VinylLeonardCohenFamousBlueRaincoat(1971)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LeonardCohenFamousBlueRaincoat(1971),
+		scale	=	0.0012,
+	}
+
+	item VinylLeonardCohenFamousBlueRaincoat(1971)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Leonard Cohen - Famous Blue Raincoat (1971),
+		WorldStaticModel = Tsarcraft.VinylLeonardCohenFamousBlueRaincoat(1971)Model,
+	}
+
+	model VinylLLCOOLJMamaSaidKnockYouOut(1990)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LLCOOLJMamaSaidKnockYouOut(1990),
+		scale	=	0.0012,
+	}
+
+	item VinylLLCOOLJMamaSaidKnockYouOut(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl LL COOL J - Mama Said Knock You Out (1990),
+		WorldStaticModel = Tsarcraft.VinylLLCOOLJMamaSaidKnockYouOut(1990)Model,
+	}
+
+	model VinylLouReedPerfectDay(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LouReedPerfectDay(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylLouReedPerfectDay(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Lou Reed - Perfect Day (1972),
+		WorldStaticModel = Tsarcraft.VinylLouReedPerfectDay(1972)Model,
+	}
+
+	model VinylLouReedWalkontheWildSide(1972)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LouReedWalkontheWildSide(1972),
+		scale	=	0.0012,
+	}
+
+	item VinylLouReedWalkontheWildSide(1972)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Lou Reed - Walk on the Wild Side (1972),
+		WorldStaticModel = Tsarcraft.VinylLouReedWalkontheWildSide(1972)Model,
+	}
+
+	model VinylLoverboyWorkingfortheWeekend(1981)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LoverboyWorkingfortheWeekend(1981),
+		scale	=	0.0012,
+	}
+
+	item VinylLoverboyWorkingfortheWeekend(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Loverboy - Working for the Weekend (1981),
+		WorldStaticModel = Tsarcraft.VinylLoverboyWorkingfortheWeekend(1981)Model,
+	}
+
+	model VinylLynrydSkynyrdSweetHomeAlabama(1974)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/LynrydSkynyrdSweetHomeAlabama(1974),
+		scale	=	0.0012,
+	}
+
+	item VinylLynrydSkynyrdSweetHomeAlabama(1974)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Lynryd Skynyrd - Sweet Home Alabama (1974),
+		WorldStaticModel = Tsarcraft.VinylLynrydSkynyrdSweetHomeAlabama(1974)Model,
+	}
+
+	model VinylMadonnaLikeAVirgin(1984)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MadonnaLikeAVirgin(1984),
+		scale	=	0.0012,
+	}
+
+	item VinylMadonnaLikeAVirgin(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Madonna - Like A Virgin (1984),
+		WorldStaticModel = Tsarcraft.VinylMadonnaLikeAVirgin(1984)Model,
+	}
+
+	model VinylMatthewWilderBreakMyStride(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MatthewWilderBreakMyStride(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylMatthewWilderBreakMyStride(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Matthew Wilder - Break My Stride (1983),
+		WorldStaticModel = Tsarcraft.VinylMatthewWilderBreakMyStride(1983)Model,
+	}
+
+	model VinylMCHammerUCan'tTouchThis(1990)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MCHammerUCan'tTouchThis(1990),
+		scale	=	0.0012,
+	}
+
+	item VinylMCHammerUCan'tTouchThis(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl MC Hammer - U Can't Touch This (1990),
+		WorldStaticModel = Tsarcraft.VinylMCHammerUCan'tTouchThis(1990)Model,
+	}
+
+	model VinylMichaelJacksonBeatIt(1982)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MichaelJacksonBeatIt(1982),
+		scale	=	0.0012,
+	}
+
+	item VinylMichaelJacksonBeatIt(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Michael Jackson - Beat It (1982),
+		WorldStaticModel = Tsarcraft.VinylMichaelJacksonBeatIt(1982)Model,
+	}
+
+	model VinylMichaelJacksonThriller(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MichaelJacksonThriller(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylMichaelJacksonThriller(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Michael Jackson - Thriller (1983),
+		WorldStaticModel = Tsarcraft.VinylMichaelJacksonThriller(1983)Model,
+	}
+
+	model VinylMotorheadAceOfSpades(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/MotorheadAceOfSpades(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylMotorheadAceOfSpades(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Motorhead - Ace Of Spades (1980),
+		WorldStaticModel = Tsarcraft.VinylMotorheadAceOfSpades(1980)Model,
+	}
+
+	model VinylNatalieImbrugliaTorn(1997)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NatalieImbrugliaTorn(1997),
+		scale	=	0.0012,
+	}
+
+	item VinylNatalieImbrugliaTorn(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Natalie Imbruglia - Torn (1997),
+		WorldStaticModel = Tsarcraft.VinylNatalieImbrugliaTorn(1997)Model,
+	}
+
+	model VinylNaughtyByNatureOPP(1991)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NaughtyByNatureOPP(1991),
+		scale	=	0.0012,
+	}
+
+	item VinylNaughtyByNatureOPP(1991)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Naughty By Nature - O.P.P. (1991),
+		WorldStaticModel = Tsarcraft.VinylNaughtyByNatureOPP(1991)Model,
+	}
+
+	model VinylNeilYoungCinnamonGirl(1969)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NeilYoungCinnamonGirl(1969),
+		scale	=	0.0012,
+	}
+
+	item VinylNeilYoungCinnamonGirl(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Neil Young - Cinnamon Girl (1969),
+		WorldStaticModel = Tsarcraft.VinylNeilYoungCinnamonGirl(1969)Model,
+	}
+
+	model VinylNeilYoungCowgirlInTheSand(1969)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NeilYoungCowgirlInTheSand(1969),
+		scale	=	0.0012,
+	}
+
+	item VinylNeilYoungCowgirlInTheSand(1969)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Neil Young - Cowgirl In The Sand (1969),
+		WorldStaticModel = Tsarcraft.VinylNeilYoungCowgirlInTheSand(1969)Model,
+	}
+
+	model VinylNENA99RedBalloons(1984)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/NENA99RedBalloons(1984),
+		scale	=	0.0012,
+	}
+
+	item VinylNENA99RedBalloons(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl NENA - 99 Red Balloons (1984),
+		WorldStaticModel = Tsarcraft.VinylNENA99RedBalloons(1984)Model,
+	}
+
+	model VinylPinkFloydComfortablyNumb(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/PinkFloydComfortablyNumb(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylPinkFloydComfortablyNumb(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Pink Floyd - Comfortably Numb (1980),
+		WorldStaticModel = Tsarcraft.VinylPinkFloydComfortablyNumb(1980)Model,
+	}
+
+	model VinylQueenAnotherOneBitestheDust(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/QueenAnotherOneBitestheDust(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylQueenAnotherOneBitestheDust(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Queen - Another One Bites the Dust (1980),
+		WorldStaticModel = Tsarcraft.VinylQueenAnotherOneBitestheDust(1980)Model,
+	}
+
+	model VinylQueenBohemianRhapsody(1975)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/QueenBohemianRhapsody(1975),
+		scale	=	0.0012,
+	}
+
+	item VinylQueenBohemianRhapsody(1975)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Queen - Bohemian Rhapsody (1975),
+		WorldStaticModel = Tsarcraft.VinylQueenBohemianRhapsody(1975)Model,
+	}
+
+	model VinylRedboneComeandGetYourLove(1973)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/RedboneComeandGetYourLove(1973),
+		scale	=	0.0012,
+	}
+
+	item VinylRedboneComeandGetYourLove(1973)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Redbone - Come and Get Your Love (1973),
+		WorldStaticModel = Tsarcraft.VinylRedboneComeandGetYourLove(1973)Model,
+	}
+
+	model VinylREOSpeedwagonCan'tFightThisFeeling(1984)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/REOSpeedwagonCan'tFightThisFeeling(1984),
+		scale	=	0.0012,
+	}
+
+	item VinylREOSpeedwagonCan'tFightThisFeeling(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl REO Speedwagon - Can't Fight This Feeling (1984),
+		WorldStaticModel = Tsarcraft.VinylREOSpeedwagonCan'tFightThisFeeling(1984)Model,
+	}
+
+	model VinylRickAstleyNeverGonnaGiveYouUp(1987)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/RickAstleyNeverGonnaGiveYouUp(1987),
+		scale	=	0.0012,
+	}
+
+	item VinylRickAstleyNeverGonnaGiveYouUp(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Rick Astley - Never Gonna Give You Up (1987),
+		WorldStaticModel = Tsarcraft.VinylRickAstleyNeverGonnaGiveYouUp(1987)Model,
+	}
+
+	model VinylRollingStonesPaintItBlack(1966)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/RollingStonesPaintItBlack(1966),
+		scale	=	0.0012,
+	}
+
+	item VinylRollingStonesPaintItBlack(1966)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Rolling Stones - Paint It Black (1966),
+		WorldStaticModel = Tsarcraft.VinylRollingStonesPaintItBlack(1966)Model,
+	}
+
+	model VinylSaltNPepaShoop(1993)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SaltNPepaShoop(1993),
+		scale	=	0.0012,
+	}
+
+	item VinylSaltNPepaShoop(1993)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord9,
+		DisplayName		=	Vinyl Salt-N-Pepa - Shoop (1993),
+		WorldStaticModel = Tsarcraft.VinylSaltNPepaShoop(1993)Model,
+	}
+
+	model VinylScatman(skibabopbadopbop)(1995)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/Scatman(skibabopbadopbop)(1995),
+		scale	=	0.0012,
+	}
+
+	item VinylScatman(skibabopbadopbop)(1995)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Scatman (ski-ba-bop-ba-dop-bop) (1995),
+		WorldStaticModel = Tsarcraft.VinylScatman(skibabopbadopbop)(1995)Model,
+	}
+
+	model VinylSimon&GarfunkelCecilia(1970)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/Simon&GarfunkelCecilia(1970),
+		scale	=	0.0012,
+	}
+
+	item VinylSimon&GarfunkelCecilia(1970)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Simon & Garfunkel - Cecilia (1970),
+		WorldStaticModel = Tsarcraft.VinylSimon&GarfunkelCecilia(1970)Model,
+	}
+
+	model VinylSimon&GarfunkelMrsRobinson(1968)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/Simon&GarfunkelMrsRobinson(1968),
+		scale	=	0.0012,
+	}
+
+	item VinylSimon&GarfunkelMrsRobinson(1968)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Simon & Garfunkel - Mrs. Robinson (1968),
+		WorldStaticModel = Tsarcraft.VinylSimon&GarfunkelMrsRobinson(1968)Model,
+	}
+
+	model VinylSineadO'ConnorNothingCompares2U(1992)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SineadO'ConnorNothingCompares2U(1992),
+		scale	=	0.0012,
+	}
+
+	item VinylSineadO'ConnorNothingCompares2U(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Sinead O'Connor - Nothing Compares 2 U (1992),
+		WorldStaticModel = Tsarcraft.VinylSineadO'ConnorNothingCompares2U(1992)Model,
+	}
+
+	model VinylSirMixALotBabyGotBack(1992)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SirMixALotBabyGotBack(1992),
+		scale	=	0.0012,
+	}
+
+	item VinylSirMixALotBabyGotBack(1992)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Sir Mix-A-Lot - Baby Got Back (1992),
+		WorldStaticModel = Tsarcraft.VinylSirMixALotBabyGotBack(1992)Model,
+	}
+
+	model VinylStarshipNothing'sGonnaStopUsNow(1987)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/StarshipNothing'sGonnaStopUsNow(1987),
+		scale	=	0.0012,
+	}
+
+	item VinylStarshipNothing'sGonnaStopUsNow(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Starship - Nothing's Gonna Stop Us Now (1987),
+		WorldStaticModel = Tsarcraft.VinylStarshipNothing'sGonnaStopUsNow(1987)Model,
+	}
+
+	model VinylSteveEarleColoradoGirl(2009)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SteveEarleColoradoGirl(2009),
+		scale	=	0.0012,
+	}
+
+	item VinylSteveEarleColoradoGirl(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl Steve Earle - Colorado Girl (2009),
+		WorldStaticModel = Tsarcraft.VinylSteveEarleColoradoGirl(2009)Model,
+	}
+
+	model VinylSteveEarleLoretta(2009)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SteveEarleLoretta(2009),
+		scale	=	0.0012,
+	}
+
+	item VinylSteveEarleLoretta(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl Steve Earle - Loretta (2009),
+		WorldStaticModel = Tsarcraft.VinylSteveEarleLoretta(2009)Model,
+	}
+
+	model VinylSteveEarleWhiteFreightlinerBlues(2009)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/SteveEarleWhiteFreightlinerBlues(2009),
+		scale	=	0.0012,
+	}
+
+	item VinylSteveEarleWhiteFreightlinerBlues(2009)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Steve Earle - White Freightliner Blues (2009),
+		WorldStaticModel = Tsarcraft.VinylSteveEarleWhiteFreightlinerBlues(2009)Model,
+	}
+
+	model VinylTacoPuttin'OnTheRitz(1982)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TacoPuttin'OnTheRitz(1982),
+		scale	=	0.0012,
+	}
+
+	item VinylTacoPuttin'OnTheRitz(1982)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Taco - Puttin' On The Ritz (1982),
+		WorldStaticModel = Tsarcraft.VinylTacoPuttin'OnTheRitz(1982)Model,
+	}
+
+	model VinylTalkingHeadsOnceinaLifetime(1980)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TalkingHeadsOnceinaLifetime(1980),
+		scale	=	0.0012,
+	}
+
+	item VinylTalkingHeadsOnceinaLifetime(1980)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Talking Heads - Once in a Lifetime (1980),
+		WorldStaticModel = Tsarcraft.VinylTalkingHeadsOnceinaLifetime(1980)Model,
+	}
+
+	model VinylTalkingHeadsPsychoKiller(1977)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TalkingHeadsPsychoKiller(1977),
+		scale	=	0.0012,
+	}
+
+	item VinylTalkingHeadsPsychoKiller(1977)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl Talking Heads - Psycho Killer (1977),
+		WorldStaticModel = Tsarcraft.VinylTalkingHeadsPsychoKiller(1977)Model,
+	}
+
+	model VinylTearsforFearsEverybodyWantstoRuletheWorld(1985)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TearsforFearsEverybodyWantstoRuletheWorld(1985),
+		scale	=	0.0012,
+	}
+
+	item VinylTearsforFearsEverybodyWantstoRuletheWorld(1985)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Tears for Fears - Everybody Wants to Rule the World (1985),
+		WorldStaticModel = Tsarcraft.VinylTearsforFearsEverybodyWantstoRuletheWorld(1985)Model,
+	}
+
+	model VinylTechnoSyndrome(MortalKombat)(1994)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TechnoSyndrome(MortalKombat)(1994),
+		scale	=	0.0012,
+	}
+
+	item VinylTechnoSyndrome(MortalKombat)(1994)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord2,
+		DisplayName		=	Vinyl Techno Syndrome (Mortal Kombat) (1994),
+		WorldStaticModel = Tsarcraft.VinylTechnoSyndrome(MortalKombat)(1994)Model,
+	}
+
+	model VinylTechnotronicPumpUpTheJam(1989)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TechnotronicPumpUpTheJam(1989),
+		scale	=	0.0012,
+	}
+
+	item VinylTechnotronicPumpUpTheJam(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord11,
+		DisplayName		=	Vinyl Technotronic - Pump Up The Jam (1989),
+		WorldStaticModel = Tsarcraft.VinylTechnotronicPumpUpTheJam(1989)Model,
+	}
+
+	model VinylTheAnimalsHouseoftheRisingSun(1964)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheAnimalsHouseoftheRisingSun(1964),
+		scale	=	0.0012,
+	}
+
+	item VinylTheAnimalsHouseoftheRisingSun(1964)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl The Animals - House of the Rising Sun (1964),
+		WorldStaticModel = Tsarcraft.VinylTheAnimalsHouseoftheRisingSun(1964)Model,
+	}
+
+	model VinylTheBeachBoysKokomo(1988)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheBeachBoysKokomo(1988),
+		scale	=	0.0012,
+	}
+
+	item VinylTheBeachBoysKokomo(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl The Beach Boys - Kokomo (1988),
+		WorldStaticModel = Tsarcraft.VinylTheBeachBoysKokomo(1988)Model,
+	}
+
+	model VinylTheBugglesVideoKilledtheRadioStar(1979)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheBugglesVideoKilledtheRadioStar(1979),
+		scale	=	0.0012,
+	}
+
+	item VinylTheBugglesVideoKilledtheRadioStar(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl The Buggles - Video Killed the Radio Star (1979),
+		WorldStaticModel = Tsarcraft.VinylTheBugglesVideoKilledtheRadioStar(1979)Model,
+	}
+
+	model VinylTheLastofUs(2013)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheLastofUs(2013),
+		scale	=	0.0012,
+	}
+
+	item VinylTheLastofUs(2013)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl The Last of Us (2013),
+		WorldStaticModel = Tsarcraft.VinylTheLastofUs(2013)Model,
+	}
+
+	model VinylTheOhHellosSoldierPoetKing(2015)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheOhHellosSoldierPoetKing(2015),
+		scale	=	0.0012,
+	}
+
+	item VinylTheOhHellosSoldierPoetKing(2015)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord8,
+		DisplayName		=	Vinyl The Oh Hellos - Soldier Poet King (2015),
+		WorldStaticModel = Tsarcraft.VinylTheOhHellosSoldierPoetKing(2015)Model,
+	}
+
+	model VinylThePoliceEverybreathyoutake(1983)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ThePoliceEverybreathyoutake(1983),
+		scale	=	0.0012,
+	}
+
+	item VinylThePoliceEverybreathyoutake(1983)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl The Police - Every breath you take (1983),
+		WorldStaticModel = Tsarcraft.VinylThePoliceEverybreathyoutake(1983)Model,
+	}
+
+	model VinylThePoliceRoxanne(1979)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ThePoliceRoxanne(1979),
+		scale	=	0.0012,
+	}
+
+	item VinylThePoliceRoxanne(1979)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl The Police - Roxanne (1979),
+		WorldStaticModel = Tsarcraft.VinylThePoliceRoxanne(1979)Model,
+	}
+
+	model VinylTheProdigyBreathe(1996)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheProdigyBreathe(1996),
+		scale	=	0.0012,
+	}
+
+	item VinylTheProdigyBreathe(1996)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Prodigy - Breathe (1996),
+		WorldStaticModel = Tsarcraft.VinylTheProdigyBreathe(1996)Model,
+	}
+
+	model VinylTheShinsNewSlang(2001)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheShinsNewSlang(2001),
+		scale	=	0.0012,
+	}
+
+	item VinylTheShinsNewSlang(2001)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord4,
+		DisplayName		=	Vinyl The Shins - New Slang (2001),
+		WorldStaticModel = Tsarcraft.VinylTheShinsNewSlang(2001)Model,
+	}
+
+	model VinylTheStranglersGoldenBrown(1981)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheStranglersGoldenBrown(1981),
+		scale	=	0.0012,
+	}
+
+	item VinylTheStranglersGoldenBrown(1981)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl The Stranglers - Golden Brown (1981),
+		WorldStaticModel = Tsarcraft.VinylTheStranglersGoldenBrown(1981)Model,
+	}
+
+	model VinylTheVerveBitterSweetSymphony(1997)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TheVerveBitterSweetSymphony(1997),
+		scale	=	0.0012,
+	}
+
+	item VinylTheVerveBitterSweetSymphony(1997)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord1,
+		DisplayName		=	Vinyl The Verve - Bitter Sweet Symphony (1997),
+		WorldStaticModel = Tsarcraft.VinylTheVerveBitterSweetSymphony(1997)Model,
+	}
+
+	model VinylTiffanyIThinkWe'reAloneNow(1987)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TiffanyIThinkWe'reAloneNow(1987),
+		scale	=	0.0012,
+	}
+
+	item VinylTiffanyIThinkWe'reAloneNow(1987)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord6,
+		DisplayName		=	Vinyl Tiffany - I Think We're Alone Now (1987),
+		WorldStaticModel = Tsarcraft.VinylTiffanyIThinkWe'reAloneNow(1987)Model,
+	}
+
+	model VinylTomPettyFreeFalling(1988)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TomPettyFreeFalling(1988),
+		scale	=	0.0012,
+	}
+
+	item VinylTomPettyFreeFalling(1988)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord5,
+		DisplayName		=	Vinyl Tom Petty - Free Falling (1988),
+		WorldStaticModel = Tsarcraft.VinylTomPettyFreeFalling(1988)Model,
+	}
+
+	model VinylToneLocFunkyColdMedina(1989)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/ToneLocFunkyColdMedina(1989),
+		scale	=	0.0012,
+	}
+
+	item VinylToneLocFunkyColdMedina(1989)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord10,
+		DisplayName		=	Vinyl Tone-Loc - Funky Cold Medina (1989),
+		WorldStaticModel = Tsarcraft.VinylToneLocFunkyColdMedina(1989)Model,
+	}
+
+	model VinylTwistedSisterWe'reNotGonnaTakeIt(1984)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/TwistedSisterWe'reNotGonnaTakeIt(1984),
+		scale	=	0.0012,
+	}
+
+	item VinylTwistedSisterWe'reNotGonnaTakeIt(1984)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord3,
+		DisplayName		=	Vinyl Twisted Sister - We're Not Gonna Take It (1984),
+		WorldStaticModel = Tsarcraft.VinylTwistedSisterWe'reNotGonnaTakeIt(1984)Model,
+	}
+
+	model VinylVanillaIceIceIceBaby(1990)Model
+	{
+		mesh			=	WorldItems/TCCover,
+		texture			=	WorldItems/VanillaIceIceIceBaby(1990),
+		scale	=	0.0012,
+	}
+
+	item VinylVanillaIceIceIceBaby(1990)
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCVinylrecord7,
+		DisplayName		=	Vinyl Vanilla Ice - Ice Ice Baby (1990),
+		WorldStaticModel = Tsarcraft.VinylVanillaIceIceIceBaby(1990)Model,
+	}
+
+}
